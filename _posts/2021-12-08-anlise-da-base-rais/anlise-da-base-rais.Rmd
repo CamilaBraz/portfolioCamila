@@ -1,0 +1,23 @@
+---
+title: "AnÃ¡lise da base RAIS"
+description: |
+  Objetivo: analisar os salários da base RAIS. Esse projeto foi feito na Semana Data Science na Prática da Curso-r.
+author:
+  - name: Camila Braz
+    url: https://example.com/norajones
+date: 2021-12-08
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
